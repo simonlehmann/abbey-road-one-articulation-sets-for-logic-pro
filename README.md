@@ -7,14 +7,12 @@ This project started as a fork of the incomplete articulation sets provided by S
 To install articulation sets for Logic Pro, download the files included in this repository, and then place them in _User_ > _Music_ > _Audio Music Apps_ > _Articulation Settings_. To navigate to your User folder, open Finder and select _Home_ from the _Go_ menu or use the keyboard shortcut <kbd>Cmd</kbd> + <kbd>Shift</kbd> + <kbd>H</kbd>.
 
 ## Roadmap
-- [x] [Abbey Road One: Orchestral Fundamentals](https://www.spitfireaudio.com/abbey-road-one-orchestral-foundations){:target="_blank"}
-- [x] [Abbey Road One: Legendary Low Strings](https://www.spitfireaudio.com/abbey-road-one-legendary-low-strings){:target="_blank"}
-- [ ] [Abbey Road One: Grand Brass](https://www.spitfireaudio.com/abbey-road-one-grand-brass){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-- [ ] [Abbey Road One: ](){:target="_blank"}
-
+- [x] [Abbey Road One: Orchestral Fundamentals](https://www.spitfireaudio.com/abbey-road-one-orchestral-foundations)
+- [ ] [Abbey Road One: Grand Brass](https://www.spitfireaudio.com/abbey-road-one-grand-brass)
+- [x] [Abbey Road One: Legendary Low Strings](https://www.spitfireaudio.com/abbey-road-one-legendary-low-strings)
+- [ ] [Abbey Road One: Mysterious Reeds](https://www.spitfireaudio.com/abbey-road-one-mysterious-reeds)
+- [ ] [Abbey Road One: Thematic Horns](https://www.spitfireaudio.com/abbey-road-one-thematic-horns)
+- [ ] [Abbey Road One: Sparkling Woodwinds](https://www.spitfireaudio.com/abbey-road-one-sparkling-woodwinds)
+- [ ] [Abbey Road One: Thematic Trumpets](https://www.spitfireaudio.com/abbey-road-one-thematic-trumpets)
+- [ ] [Abbey Road One: Vibrant Reeds](https://www.spitfireaudio.com/abbey-road-one-vibrant-reeds)
+- [ ] [Abbey Road One: Wondrous Flutes](https://www.spitfireaudio.com/abbey-road-one-wondrous-flutes)
